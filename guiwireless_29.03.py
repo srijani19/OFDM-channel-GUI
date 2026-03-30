@@ -630,5 +630,3 @@ app.protocol("WM_DELETE_WINDOW", on_closing)
 app.mainloop()
 
 
-
-#Plotting tap index --Not actual delay positions
